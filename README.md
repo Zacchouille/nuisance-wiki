@@ -1,2 +1,2 @@
 # nuisance-wiki
-Wiki deu fangame Pokemon Nuisance
+Wiki du fangame Pokemon Nuisance
