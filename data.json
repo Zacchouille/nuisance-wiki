@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ouisticram",
+    "type": ["Electrik"],
+    "evolution": "Chimpanfeu"
+  },
+  {
+    "id": 2,
+    "name": "Tortipouss",
+    "type": ["Sol"],
+    "evolution": "Boskara"
+  },
+  {
+    "id": 3,
+    "name": "Flambino",
+    "type": ["Eau"],
+    "evolution": "Lapyro"
+  }
+]

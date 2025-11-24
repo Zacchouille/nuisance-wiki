@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+#pokemon-list div {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  margin: 5px auto;
+  padding: 10px;
+  width: 400px;
+  border-radius: 5px;
+  text-align: left;
+}
